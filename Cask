@@ -15,6 +15,9 @@
 (depends-on "flycheck")
 (depends-on "sequential-command")
 (depends-on "helm")
+(depends-on "python-mode")
+(depends-on "jedi")
+(depends-on "exec-path-from-shell")
 
 (depends-on "php-completion"
         :git "https://github.com/suzuki/php-completion.git"
